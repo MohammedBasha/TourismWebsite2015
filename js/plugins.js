@@ -1,0 +1,1 @@
+$(function(){"use strict";$("body").vegas({slides:[{src:"images/b-1.jpg"},{src:"images/b-2.jpg"},{src:"images/b-3.jpg"},{src:"images/b-4.jpg"},{src:"images/b-5.jpg"}],timer:!1})});
